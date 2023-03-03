@@ -1,0 +1,12 @@
+2023-03-02 18:36:04.140 [main] INFO  com.gqa.tests.EcomTest - Initiating logs for Tests
+2023-03-02 18:36:05.368 [main] INFO  com.gqa.tests.EcomTest - Initiating Reports
+2023-03-02 18:36:05.509 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+2023-03-02 18:36:23.700 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.tests.EcomTest -  Error occured !!!!!
+2023-03-02 18:36:25.034 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+2023-03-02 18:36:41.127 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.tests.EcomTest -  Error occured !!!!!
+2023-03-02 18:36:41.755 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+2023-03-02 18:36:55.462 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.tests.EcomTest -  Error occured !!!!!
+2023-03-02 18:36:56.490 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+2023-03-02 18:37:10.654 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.tests.EcomTest -  Error occured !!!!!
+2023-03-02 18:37:11.333 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+2023-03-02 18:37:25.466 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.tests.EcomTest -  Error occured !!!!!

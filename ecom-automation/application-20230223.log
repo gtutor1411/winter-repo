@@ -1,0 +1,15 @@
+2023-02-23 20:35:28.164 [main] INFO  com.gqa.tests.EcomTest - Initiating logs for Tests
+2023-02-23 20:35:28.313 [main] INFO  com.gqa.tests.EcomTest - Initiating Reports
+2023-02-23 20:35:28.371 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+2023-02-23 20:35:44.763 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.tests.EcomTest - Error occured !!!!!
+2023-02-23 20:35:44.763 [TestNG-test=Ecom Site Test-1] ERROR com.gqa.base.BaseClass - Error occured while taking screenshot !!!!!
+ no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(),'Your new account has been success')]"}
+  (Session info: chrome=110.0.5481.104)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'CC-GIRISH', ip: '192.168.2.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [064bf6826f2849fb384869fe43703265, findElement {using=xpath, value=//p[contains(text(),'Your new account has been success')]}]
+Capabilities {acceptInsecureCerts: false, browserName: c
+2023-02-23 20:35:45.297 [TestNG-test=Ecom Site Test-1] INFO  com.gqa.tests.EcomTest - Initiating tests on CH browser
+

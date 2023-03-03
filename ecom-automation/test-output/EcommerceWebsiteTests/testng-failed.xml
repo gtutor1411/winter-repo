@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Failed suite [EcommerceWebsiteTests]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="Ecom Site Test(failed)">
+    <classes>
+      <class name="com.gqa.tests.EcomTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="initBrowser"/>
+          <include name="handleBrowsers"/>
+          <include name="registerTest" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- com.gqa.tests.EcomTest -->
+    </classes>
+  </test> <!-- Ecom Site Test(failed) -->
+</suite> <!-- Failed suite [EcommerceWebsiteTests] -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="EcommerceWebsiteTests" parallel="methods">
+	<!--<listeners>
+		<listener class-name="com.busyqa.tests.MyListener"></listener>
+	</listeners>
+	<parameter name="userName" value="girish@gmail.com"></parameter>
+	<parameter name="password" value="Password12345"></parameter>-->
+
+	<test thread-count="1" name="Ecom Site Test">
+		<!--<groups>
+			<run>
+				<include name="important" />
+				<exclude name="notimportant" />
+			</run>
+		</groups>-->
+		<classes>
+			<class name="com.gqa.tests.EcomTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
