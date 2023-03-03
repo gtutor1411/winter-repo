@@ -13,6 +13,8 @@ import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
 public class BaseClass {
+	
+	// this is a comment I added for demo purpose
 
 	public static void takeSnapshot(WebDriver driver, String ssName, ExtentTest test) {
 		try {
@@ -35,6 +37,16 @@ public class BaseClass {
 	}
 
 	public static String generateRandomNumber() {
+		try {
+			return "123456";
+		} catch (Exception e) {
+			return "123456";
+		}
+
+	}
+	
+	
+	public static String generateRandomString() {
 		try {
 			return "123456";
 		} catch (Exception e) {
